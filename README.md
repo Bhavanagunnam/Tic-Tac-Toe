@@ -1,5 +1,5 @@
 # Tic-Tac-Toe  Game
-A simple and interactive Tic-Tac-Toe game built using HTML ,CSS,and JAVASCRIPT
+A simple and interactive Tic-Tac-Toe game built using HTML ,CSS,and JAVASCRIPT.
 
 ## Features
 
@@ -28,4 +28,4 @@ A simple and interactive Tic-Tac-Toe game built using HTML ,CSS,and JAVASCRIPT
 
 ---
 ## Demo
-click here to play:
+click here to play:(https://bhavanagunnam.github.io/Tic-Tac-Toe/).
